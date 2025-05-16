@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jeux Olympiques</title>
+  <link rel="stylesheet" href="css.css" />
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/export-data.js"></script>
+  <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+  <style>
+    .viz-block {
+      margin: 30px auto 50px auto;
+      max-width: 900px;
+    }
+    h2 {
+      text-align: center;
+      margin-top: 2em;
+    }
+  </style>
+</head>
+<body>
+  <h1 style="text-align:center;">Jeux Olympiques</h1>
+
+  <div class="viz-block">
+    <h2>Visualisation 1</h2>
+    <figure class="highcharts-figure">
+      <div id="chart-countries"></div>
+      <p class="highcharts-description">
+        Classement des pays selon le nombre de médailles olympiques.
+      </p>
+    </figure>
+  </div>
+  <div class="viz-block">
+    <h2>Visualisation 2</h2>
+    <figure class="highcharts-figure">
+      <div id="chart-heatmap"></div>
+      <p class="highcharts-description">
+        Heatmap : Nombre de médailles par sport et par pays.
+      </p>
+    </figure>
+  </div>
+  <div class="viz-block">
+    <h2>Visualisation 3</h2>
+    <figure class="highcharts-figure">
+      <div id="chart-athletes"></div>
+      <p class="highcharts-description">
+        Top 20 des athlètes ayant remporté le plus de médailles.
+      </p>
+    </figure>
+  </div>
+
+  <script src="script-countries.js"></script>
+  <script src="script-heatmap.js"></script>
+  <script src="script-athletes.js"></script>
+</body>
+</html>

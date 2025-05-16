@@ -1,0 +1,3162 @@
+[
+  {
+    "sport": "Aeronautics",
+    "medals_by_country": [
+      {
+        "country": "Switzerland",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Alpine Skiing",
+    "medals_by_country": [
+      {
+        "country": "Austria",
+        "gold": 40,
+        "silver": 44,
+        "bronze": 44
+      },
+      {
+        "country": "Switzerland",
+        "gold": 27,
+        "silver": 23,
+        "bronze": 25
+      },
+      {
+        "country": "United States of America",
+        "gold": 17,
+        "silver": 21,
+        "bronze": 10
+      },
+      {
+        "country": "Germany",
+        "gold": 17,
+        "silver": 14,
+        "bronze": 10
+      },
+      {
+        "country": "France",
+        "gold": 16,
+        "silver": 17,
+        "bronze": 18
+      },
+      {
+        "country": "Italy",
+        "gold": 14,
+        "silver": 11,
+        "bronze": 11
+      },
+      {
+        "country": "Norway",
+        "gold": 11,
+        "silver": 14,
+        "bronze": 15
+      },
+      {
+        "country": "Sweden",
+        "gold": 8,
+        "silver": 2,
+        "bronze": 9
+      }
+    ]
+  },
+  {
+    "sport": "Alpinism",
+    "medals_by_country": [
+      {
+        "country": "Germany",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Great Britain / Australia",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Switzerland",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Archery",
+    "medals_by_country": [
+      {
+        "country": "South Korea",
+        "gold": 32,
+        "silver": 10,
+        "bronze": 8
+      },
+      {
+        "country": "United States of America",
+        "gold": 14,
+        "silver": 12,
+        "bronze": 10
+      },
+      {
+        "country": "Belgium",
+        "gold": 11,
+        "silver": 7,
+        "bronze": 3
+      },
+      {
+        "country": "France",
+        "gold": 7,
+        "silver": 12,
+        "bronze": 8
+      },
+      {
+        "country": "Italy",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 5
+      },
+      {
+        "country": "China",
+        "gold": 1,
+        "silver": 7,
+        "bronze": 2
+      },
+      {
+        "country": "Russia",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 6
+      }
+    ]
+  },
+  {
+    "sport": "Athletics",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 369,
+        "silver": 286,
+        "bronze": 229
+      },
+      {
+        "country": "Russia",
+        "gold": 89,
+        "silver": 87,
+        "bronze": 97
+      },
+      {
+        "country": "Germany",
+        "gold": 74,
+        "silver": 98,
+        "bronze": 99
+      },
+      {
+        "country": "Great Britain",
+        "gold": 58,
+        "silver": 91,
+        "bronze": 77
+      },
+      {
+        "country": "Finland",
+        "gold": 49,
+        "silver": 36,
+        "bronze": 31
+      },
+      {
+        "country": "Kenya",
+        "gold": 38,
+        "silver": 43,
+        "bronze": 36
+      },
+      {
+        "country": "Poland",
+        "gold": 29,
+        "silver": 20,
+        "bronze": 18
+      },
+      {
+        "country": "Jamaica",
+        "gold": 27,
+        "silver": 39,
+        "bronze": 27
+      }
+    ]
+  },
+  {
+    "sport": "Badminton",
+    "medals_by_country": [
+      {
+        "country": "China",
+        "gold": 22,
+        "silver": 15,
+        "bronze": 15
+      },
+      {
+        "country": "Indonesia",
+        "gold": 8,
+        "silver": 6,
+        "bronze": 8
+      },
+      {
+        "country": "South Korea",
+        "gold": 7,
+        "silver": 8,
+        "bronze": 7
+      },
+      {
+        "country": "Denmark",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "Chinese Taipei",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 4
+      },
+      {
+        "country": "Spain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Malaysia",
+        "gold": 0,
+        "silver": 6,
+        "bronze": 5
+      }
+    ]
+  },
+  {
+    "sport": "Baseball",
+    "medals_by_country": [
+      {
+        "country": "Cuba",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "country": "South Korea",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Australia",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Chinese Taipei",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Basketball",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 28,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "Russia",
+        "gold": 5,
+        "silver": 4,
+        "bronze": 7
+      },
+      {
+        "country": "Yugoslavia",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 2
+      },
+      {
+        "country": "Argentina",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Germany",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Latvia",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Netherlands",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 0,
+        "silver": 7,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Beachvolleyball",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 7,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "Brazil",
+        "gold": 4,
+        "silver": 7,
+        "bronze": 3
+      },
+      {
+        "country": "Germany",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Australia",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Norway",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Sweden",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Canada",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "China",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Biathlon",
+    "medals_by_country": [
+      {
+        "country": "German Democratic Republic",
+        "gold": 24,
+        "silver": 27,
+        "bronze": 19
+      },
+      {
+        "country": "Norway",
+        "gold": 22,
+        "silver": 18,
+        "bronze": 15
+      },
+      {
+        "country": "Russia",
+        "gold": 20,
+        "silver": 12,
+        "bronze": 15
+      },
+      {
+        "country": "France",
+        "gold": 12,
+        "silver": 9,
+        "bronze": 12
+      },
+      {
+        "country": "Sweden",
+        "gold": 6,
+        "silver": 6,
+        "bronze": 6
+      },
+      {
+        "country": "Belarus",
+        "gold": 4,
+        "silver": 4,
+        "bronze": 3
+      },
+      {
+        "country": "Slovakia",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 1
+      },
+      {
+        "country": "Canada",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Bobsledding",
+    "medals_by_country": [
+      {
+        "country": "Germany",
+        "gold": 22,
+        "silver": 17,
+        "bronze": 12
+      },
+      {
+        "country": "Switzerland",
+        "gold": 10,
+        "silver": 10,
+        "bronze": 11
+      },
+      {
+        "country": "United States of America",
+        "gold": 8,
+        "silver": 11,
+        "bronze": 9
+      },
+      {
+        "country": "Canada",
+        "gold": 5,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "Italy",
+        "gold": 4,
+        "silver": 4,
+        "bronze": 4
+      },
+      {
+        "country": "Austria",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "Great Britain",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 3
+      },
+      {
+        "country": "Russia",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Boxing",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 50,
+        "silver": 27,
+        "bronze": 41
+      },
+      {
+        "country": "Cuba",
+        "gold": 42,
+        "silver": 19,
+        "bronze": 19
+      },
+      {
+        "country": "Russia",
+        "gold": 24,
+        "silver": 25,
+        "bronze": 34
+      },
+      {
+        "country": "Great Britain",
+        "gold": 20,
+        "silver": 15,
+        "bronze": 28
+      },
+      {
+        "country": "Italy",
+        "gold": 15,
+        "silver": 15,
+        "bronze": 18
+      },
+      {
+        "country": "Germany",
+        "gold": 11,
+        "silver": 14,
+        "bronze": 24
+      },
+      {
+        "country": "Hungary",
+        "gold": 10,
+        "silver": 2,
+        "bronze": 8
+      },
+      {
+        "country": "Uzbekistan",
+        "gold": 10,
+        "silver": 2,
+        "bronze": 8
+      }
+    ]
+  },
+  {
+    "sport": "Breaking",
+    "medals_by_country": [
+      {
+        "country": "Canada",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Lithuania",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "China",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "United States of America",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Canoe & Kayaking",
+    "medals_by_country": [
+      {
+        "country": "Germany",
+        "gold": 56,
+        "silver": 39,
+        "bronze": 40
+      },
+      {
+        "country": "Russia",
+        "gold": 32,
+        "silver": 18,
+        "bronze": 16
+      },
+      {
+        "country": "Hungary",
+        "gold": 28,
+        "silver": 35,
+        "bronze": 30
+      },
+      {
+        "country": "Sweden",
+        "gold": 15,
+        "silver": 11,
+        "bronze": 4
+      },
+      {
+        "country": "New Zealand",
+        "gold": 14,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "Romania",
+        "gold": 10,
+        "silver": 10,
+        "bronze": 14
+      },
+      {
+        "country": "France",
+        "gold": 9,
+        "silver": 11,
+        "bronze": 19
+      },
+      {
+        "country": "Australia",
+        "gold": 8,
+        "silver": 9,
+        "bronze": 15
+      }
+    ]
+  },
+  {
+    "sport": "Cricket",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Crocket",
+    "medals_by_country": [
+      {
+        "country": "France",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Cross-Country Skiing",
+    "medals_by_country": [
+      {
+        "country": "Norway",
+        "gold": 52,
+        "silver": 43,
+        "bronze": 34
+      },
+      {
+        "country": "Russia",
+        "gold": 42,
+        "silver": 34,
+        "bronze": 34
+      },
+      {
+        "country": "Sweden",
+        "gold": 32,
+        "silver": 27,
+        "bronze": 25
+      },
+      {
+        "country": "Finland",
+        "gold": 22,
+        "silver": 27,
+        "bronze": 37
+      },
+      {
+        "country": "Italy",
+        "gold": 9,
+        "silver": 14,
+        "bronze": 13
+      },
+      {
+        "country": "German Democratic Republic",
+        "gold": 5,
+        "silver": 11,
+        "bronze": 5
+      },
+      {
+        "country": "Russian Olympic Commitee",
+        "gold": 4,
+        "silver": 7,
+        "bronze": 8
+      },
+      {
+        "country": "Estonia",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Curling",
+    "medals_by_country": [
+      {
+        "country": "Canada",
+        "gold": 6,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Sweden",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "Great Britain",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "Switzerland",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Norway",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Italy",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Cycling",
+    "medals_by_country": [
+      {
+        "country": "France",
+        "gold": 45,
+        "silver": 31,
+        "bronze": 32
+      },
+      {
+        "country": "Great Britain",
+        "gold": 42,
+        "silver": 43,
+        "bronze": 31
+      },
+      {
+        "country": "Italy",
+        "gold": 38,
+        "silver": 18,
+        "bronze": 13
+      },
+      {
+        "country": "Germany",
+        "gold": 26,
+        "silver": 32,
+        "bronze": 29
+      },
+      {
+        "country": "Netherlands",
+        "gold": 26,
+        "silver": 25,
+        "bronze": 17
+      },
+      {
+        "country": "United States of America",
+        "gold": 20,
+        "silver": 24,
+        "bronze": 22
+      },
+      {
+        "country": "Australia",
+        "gold": 18,
+        "silver": 21,
+        "bronze": 23
+      },
+      {
+        "country": "Russia",
+        "gold": 16,
+        "silver": 9,
+        "bronze": 18
+      }
+    ]
+  },
+  {
+    "sport": "Diving",
+    "medals_by_country": [
+      {
+        "country": "China",
+        "gold": 55,
+        "silver": 26,
+        "bronze": 11
+      },
+      {
+        "country": "United States of America",
+        "gold": 48,
+        "silver": 46,
+        "bronze": 45
+      },
+      {
+        "country": "Russia",
+        "gold": 8,
+        "silver": 14,
+        "bronze": 13
+      },
+      {
+        "country": "Germany",
+        "gold": 8,
+        "silver": 12,
+        "bronze": 15
+      },
+      {
+        "country": "Sweden",
+        "gold": 6,
+        "silver": 8,
+        "bronze": 7
+      },
+      {
+        "country": "Italy",
+        "gold": 3,
+        "silver": 5,
+        "bronze": 3
+      },
+      {
+        "country": "Australia",
+        "gold": 3,
+        "silver": 4,
+        "bronze": 8
+      },
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 4,
+        "bronze": 12
+      }
+    ]
+  },
+  {
+    "sport": "Equestrian",
+    "medals_by_country": [
+      {
+        "country": "Germany",
+        "gold": 48,
+        "silver": 25,
+        "bronze": 27
+      },
+      {
+        "country": "Sweden",
+        "gold": 18,
+        "silver": 13,
+        "bronze": 14
+      },
+      {
+        "country": "Great Britain",
+        "gold": 15,
+        "silver": 12,
+        "bronze": 18
+      },
+      {
+        "country": "France",
+        "gold": 14,
+        "silver": 14,
+        "bronze": 12
+      },
+      {
+        "country": "United States of America",
+        "gold": 11,
+        "silver": 24,
+        "bronze": 20
+      },
+      {
+        "country": "Netherlands",
+        "gold": 10,
+        "silver": 13,
+        "bronze": 5
+      },
+      {
+        "country": "Italy",
+        "gold": 7,
+        "silver": 9,
+        "bronze": 7
+      },
+      {
+        "country": "Australia",
+        "gold": 6,
+        "silver": 5,
+        "bronze": 4
+      }
+    ]
+  },
+  {
+    "sport": "Fencing",
+    "medals_by_country": [
+      {
+        "country": "Italy",
+        "gold": 50,
+        "silver": 50,
+        "bronze": 37
+      },
+      {
+        "country": "France",
+        "gold": 48,
+        "silver": 48,
+        "bronze": 39
+      },
+      {
+        "country": "Hungary",
+        "gold": 39,
+        "silver": 25,
+        "bronze": 30
+      },
+      {
+        "country": "Russia",
+        "gold": 32,
+        "silver": 22,
+        "bronze": 26
+      },
+      {
+        "country": "Germany",
+        "gold": 15,
+        "silver": 19,
+        "bronze": 12
+      },
+      {
+        "country": "South Korea",
+        "gold": 7,
+        "silver": 4,
+        "bronze": 8
+      },
+      {
+        "country": "United States of America",
+        "gold": 6,
+        "silver": 12,
+        "bronze": 19
+      },
+      {
+        "country": "China",
+        "gold": 5,
+        "silver": 7,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Figure Skating",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 28,
+        "silver": 19,
+        "bronze": 9
+      },
+      {
+        "country": "United States of America",
+        "gold": 17,
+        "silver": 16,
+        "bronze": 21
+      },
+      {
+        "country": "Federal Republic of Germany",
+        "gold": 8,
+        "silver": 7,
+        "bronze": 9
+      },
+      {
+        "country": "Austria",
+        "gold": 7,
+        "silver": 9,
+        "bronze": 4
+      },
+      {
+        "country": "Canada",
+        "gold": 6,
+        "silver": 11,
+        "bronze": 12
+      },
+      {
+        "country": "Great Britain",
+        "gold": 5,
+        "silver": 3,
+        "bronze": 7
+      },
+      {
+        "country": "Sweden",
+        "gold": 5,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "France",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 7
+      }
+    ]
+  },
+  {
+    "sport": "Football",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 5,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "Hungary",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Great Britain",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Brazil",
+        "gold": 2,
+        "silver": 6,
+        "bronze": 2
+      },
+      {
+        "country": "Spain",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 0
+      },
+      {
+        "country": "Germany",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 7
+      },
+      {
+        "country": "Argentina",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "Russia",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Freestyle Skiing",
+    "medals_by_country": [
+      {
+        "country": "Canada",
+        "gold": 12,
+        "silver": 12,
+        "bronze": 6
+      },
+      {
+        "country": "United States of America",
+        "gold": 11,
+        "silver": 13,
+        "bronze": 9
+      },
+      {
+        "country": "Switzerland",
+        "gold": 6,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "China",
+        "gold": 5,
+        "silver": 8,
+        "bronze": 4
+      },
+      {
+        "country": "Australia",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "Norway",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "Belarus",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "France",
+        "gold": 3,
+        "silver": 6,
+        "bronze": 6
+      }
+    ]
+  },
+  {
+    "sport": "Golf",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 6,
+        "silver": 3,
+        "bronze": 5
+      },
+      {
+        "country": "Great Britain",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "New Zealand",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Canada",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "South Korea",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Germany",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Slovakia",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Gymnastics",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 91,
+        "silver": 87,
+        "bronze": 66
+      },
+      {
+        "country": "United States of America",
+        "gold": 40,
+        "silver": 44,
+        "bronze": 42
+      },
+      {
+        "country": "Japan",
+        "gold": 36,
+        "silver": 34,
+        "bronze": 37
+      },
+      {
+        "country": "China",
+        "gold": 31,
+        "silver": 26,
+        "bronze": 21
+      },
+      {
+        "country": "Romania",
+        "gold": 25,
+        "silver": 20,
+        "bronze": 27
+      },
+      {
+        "country": "Germany",
+        "gold": 20,
+        "silver": 26,
+        "bronze": 33
+      },
+      {
+        "country": "Switzerland",
+        "gold": 16,
+        "silver": 19,
+        "bronze": 14
+      },
+      {
+        "country": "Hungary",
+        "gold": 15,
+        "silver": 12,
+        "bronze": 14
+      }
+    ]
+  },
+  {
+    "sport": "Handball",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 7,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "Denmark",
+        "gold": 5,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "France",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 1
+      },
+      {
+        "country": "Norway",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "Yugoslavia",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "German Democratic Republic",
+        "gold": 2,
+        "silver": 4,
+        "bronze": 2
+      },
+      {
+        "country": "South Korea",
+        "gold": 2,
+        "silver": 4,
+        "bronze": 1
+      },
+      {
+        "country": "Croatia",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Hockey",
+    "medals_by_country": [
+      {
+        "country": "Netherlands",
+        "gold": 8,
+        "silver": 6,
+        "bronze": 6
+      },
+      {
+        "country": "India",
+        "gold": 8,
+        "silver": 1,
+        "bronze": 4
+      },
+      {
+        "country": "Germany",
+        "gold": 5,
+        "silver": 6,
+        "bronze": 5
+      },
+      {
+        "country": "Australia",
+        "gold": 4,
+        "silver": 4,
+        "bronze": 5
+      },
+      {
+        "country": "Great Britain",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 7
+      },
+      {
+        "country": "Pakistan",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "Argentina",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Spain",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Ice Hockey",
+    "medals_by_country": [
+      {
+        "country": "Canada",
+        "gold": 14,
+        "silver": 6,
+        "bronze": 3
+      },
+      {
+        "country": "Russia",
+        "gold": 8,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "United States of America",
+        "gold": 4,
+        "silver": 12,
+        "bronze": 2
+      },
+      {
+        "country": "Sweden",
+        "gold": 2,
+        "silver": 4,
+        "bronze": 5
+      },
+      {
+        "country": "Finland",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 8
+      },
+      {
+        "country": "Russian Olympic Commitee",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Czech Republic",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Great Britain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Jeu de Paume",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Great Britain",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Judo",
+    "medals_by_country": [
+      {
+        "country": "Japan",
+        "gold": 51,
+        "silver": 23,
+        "bronze": 30
+      },
+      {
+        "country": "France",
+        "gold": 18,
+        "silver": 15,
+        "bronze": 34
+      },
+      {
+        "country": "Russia",
+        "gold": 12,
+        "silver": 9,
+        "bronze": 22
+      },
+      {
+        "country": "South Korea",
+        "gold": 11,
+        "silver": 19,
+        "bronze": 21
+      },
+      {
+        "country": "China",
+        "gold": 8,
+        "silver": 3,
+        "bronze": 12
+      },
+      {
+        "country": "Cuba",
+        "gold": 6,
+        "silver": 15,
+        "bronze": 16
+      },
+      {
+        "country": "Germany",
+        "gold": 5,
+        "silver": 11,
+        "bronze": 25
+      },
+      {
+        "country": "Georgia",
+        "gold": 5,
+        "silver": 7,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Karate",
+    "medals_by_country": [
+      {
+        "country": "Japan",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Spain",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Egypt",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Italy",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Bulgaria",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Iran",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Serbia",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Lacrosse",
+    "medals_by_country": [
+      {
+        "country": "Canada",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Great Britain",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "United States of America",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Luge",
+    "medals_by_country": [
+      {
+        "country": "Germany",
+        "gold": 38,
+        "silver": 26,
+        "bronze": 23
+      },
+      {
+        "country": "Italy",
+        "gold": 7,
+        "silver": 4,
+        "bronze": 7
+      },
+      {
+        "country": "Austria",
+        "gold": 6,
+        "silver": 10,
+        "bronze": 9
+      },
+      {
+        "country": "Russia",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 3
+      },
+      {
+        "country": "United States of America",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Latvia",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+      },
+      {
+        "country": "Canada",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Russian Olympic Commitee",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Modern Pentathlon",
+    "medals_by_country": [
+      {
+        "country": "Hungary",
+        "gold": 10,
+        "silver": 8,
+        "bronze": 6
+      },
+      {
+        "country": "Russia",
+        "gold": 9,
+        "silver": 7,
+        "bronze": 6
+      },
+      {
+        "country": "Sweden",
+        "gold": 9,
+        "silver": 7,
+        "bronze": 5
+      },
+      {
+        "country": "Great Britain",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "Poland",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Italy",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "Germany",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Lithuania",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Motorboating",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Nordic Combined",
+    "medals_by_country": [
+      {
+        "country": "Norway",
+        "gold": 15,
+        "silver": 12,
+        "bronze": 8
+      },
+      {
+        "country": "Germany",
+        "gold": 12,
+        "silver": 7,
+        "bronze": 9
+      },
+      {
+        "country": "Finland",
+        "gold": 4,
+        "silver": 8,
+        "bronze": 2
+      },
+      {
+        "country": "Austria",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 11
+      },
+      {
+        "country": "Japan",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "France",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 0
+      },
+      {
+        "country": "Switzerland",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Pelota",
+    "medals_by_country": [
+      {
+        "country": "Spain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Polo",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "Argentina",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "United States of America / Great Britain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "United States of America",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Great Britain / France / United States of America",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Spain",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "France / Great Britain",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Mexico",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Rackets",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Rhythmic Gymnastics",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 12,
+        "silver": 4,
+        "bronze": 4
+      },
+      {
+        "country": "Bulgaria",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "Spain",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "China",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Israel",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Ukraine",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 4
+      },
+      {
+        "country": "Federal Republic of Germany",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Canada",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Roque",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Rowing",
+    "medals_by_country": [
+      {
+        "country": "Germany",
+        "gold": 65,
+        "silver": 31,
+        "bronze": 30
+      },
+      {
+        "country": "United States of America",
+        "gold": 34,
+        "silver": 32,
+        "bronze": 25
+      },
+      {
+        "country": "Great Britain",
+        "gold": 34,
+        "silver": 27,
+        "bronze": 17
+      },
+      {
+        "country": "Romania",
+        "gold": 22,
+        "silver": 15,
+        "bronze": 9
+      },
+      {
+        "country": "Italy",
+        "gold": 15,
+        "silver": 17,
+        "bronze": 17
+      },
+      {
+        "country": "New Zealand",
+        "gold": 15,
+        "silver": 7,
+        "bronze": 11
+      },
+      {
+        "country": "Russia",
+        "gold": 13,
+        "silver": 20,
+        "bronze": 14
+      },
+      {
+        "country": "Australia",
+        "gold": 13,
+        "silver": 15,
+        "bronze": 17
+      }
+    ]
+  },
+  {
+    "sport": "Rugby",
+    "medals_by_country": [
+      {
+        "country": "France",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 0
+      },
+      {
+        "country": "New Zealand",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "Fiji",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "United States of America",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Australia",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Australia / New Zealand (Australasia)",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Great Britain",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "Canada",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Sailing",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 31,
+        "silver": 21,
+        "bronze": 13
+      },
+      {
+        "country": "United States of America",
+        "gold": 19,
+        "silver": 23,
+        "bronze": 20
+      },
+      {
+        "country": "Norway",
+        "gold": 17,
+        "silver": 11,
+        "bronze": 5
+      },
+      {
+        "country": "France",
+        "gold": 15,
+        "silver": 15,
+        "bronze": 21
+      },
+      {
+        "country": "Australia",
+        "gold": 14,
+        "silver": 9,
+        "bronze": 8
+      },
+      {
+        "country": "Spain",
+        "gold": 14,
+        "silver": 5,
+        "bronze": 3
+      },
+      {
+        "country": "Denmark",
+        "gold": 13,
+        "silver": 10,
+        "bronze": 9
+      },
+      {
+        "country": "Sweden",
+        "gold": 10,
+        "silver": 15,
+        "bronze": 14
+      }
+    ]
+  },
+  {
+    "sport": "Shooting",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 58,
+        "silver": 34,
+        "bronze": 29
+      },
+      {
+        "country": "China",
+        "gold": 31,
+        "silver": 18,
+        "bronze": 28
+      },
+      {
+        "country": "Russia",
+        "gold": 29,
+        "silver": 31,
+        "bronze": 30
+      },
+      {
+        "country": "Germany",
+        "gold": 18,
+        "silver": 21,
+        "bronze": 14
+      },
+      {
+        "country": "Italy",
+        "gold": 17,
+        "silver": 19,
+        "bronze": 12
+      },
+      {
+        "country": "Great Britain",
+        "gold": 16,
+        "silver": 16,
+        "bronze": 21
+      },
+      {
+        "country": "Sweden",
+        "gold": 15,
+        "silver": 26,
+        "bronze": 19
+      },
+      {
+        "country": "France",
+        "gold": 13,
+        "silver": 17,
+        "bronze": 14
+      }
+    ]
+  },
+  {
+    "sport": "Short Track",
+    "medals_by_country": [
+      {
+        "country": "South Korea",
+        "gold": 26,
+        "silver": 16,
+        "bronze": 11
+      },
+      {
+        "country": "China",
+        "gold": 12,
+        "silver": 16,
+        "bronze": 9
+      },
+      {
+        "country": "Canada",
+        "gold": 10,
+        "silver": 13,
+        "bronze": 14
+      },
+      {
+        "country": "United States of America",
+        "gold": 4,
+        "silver": 7,
+        "bronze": 9
+      },
+      {
+        "country": "Italy",
+        "gold": 3,
+        "silver": 6,
+        "bronze": 6
+      },
+      {
+        "country": "Netherlands",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Russia",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "country": "Hungary",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Skateboarding",
+    "medals_by_country": [
+      {
+        "country": "Japan",
+        "gold": 5,
+        "silver": 3,
+        "bronze": 1
+      },
+      {
+        "country": "Australia",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Brazil",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "United States of America",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "Great Britain",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Skeleton",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 3,
+        "silver": 4,
+        "bronze": 1
+      },
+      {
+        "country": "Great Britain",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 5
+      },
+      {
+        "country": "Germany",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 1
+      },
+      {
+        "country": "Canada",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Russia",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      },
+      {
+        "country": "Switzerland",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      },
+      {
+        "country": "Italy",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "South Korea",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Ski Jumping",
+    "medals_by_country": [
+      {
+        "country": "Norway",
+        "gold": 12,
+        "silver": 10,
+        "bronze": 14
+      },
+      {
+        "country": "Finland",
+        "gold": 10,
+        "silver": 8,
+        "bronze": 4
+      },
+      {
+        "country": "Germany",
+        "gold": 9,
+        "silver": 10,
+        "bronze": 6
+      },
+      {
+        "country": "Austria",
+        "gold": 7,
+        "silver": 10,
+        "bronze": 10
+      },
+      {
+        "country": "Japan",
+        "gold": 4,
+        "silver": 6,
+        "bronze": 4
+      },
+      {
+        "country": "Poland",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Switzerland",
+        "gold": 4,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Slovenia",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Snowboard",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 17,
+        "silver": 8,
+        "bronze": 10
+      },
+      {
+        "country": "Switzerland",
+        "gold": 8,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "Canada",
+        "gold": 5,
+        "silver": 5,
+        "bronze": 7
+      },
+      {
+        "country": "Austria",
+        "gold": 5,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "France",
+        "gold": 4,
+        "silver": 5,
+        "bronze": 4
+      },
+      {
+        "country": "Czech Republic",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Russia",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "Germany",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Softball",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Australia",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+      },
+      {
+        "country": "China",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Canada",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Speed Skating",
+    "medals_by_country": [
+      {
+        "country": "Netherlands",
+        "gold": 48,
+        "silver": 44,
+        "bronze": 41
+      },
+      {
+        "country": "United States of America",
+        "gold": 30,
+        "silver": 22,
+        "bronze": 19
+      },
+      {
+        "country": "Norway",
+        "gold": 28,
+        "silver": 29,
+        "bronze": 30
+      },
+      {
+        "country": "Russia",
+        "gold": 27,
+        "silver": 22,
+        "bronze": 24
+      },
+      {
+        "country": "German Democratic Republic",
+        "gold": 25,
+        "silver": 28,
+        "bronze": 19
+      },
+      {
+        "country": "Canada",
+        "gold": 10,
+        "silver": 16,
+        "bronze": 16
+      },
+      {
+        "country": "Sweden",
+        "gold": 9,
+        "silver": 4,
+        "bronze": 5
+      },
+      {
+        "country": "Finland",
+        "gold": 7,
+        "silver": 8,
+        "bronze": 9
+      }
+    ]
+  },
+  {
+    "sport": "Sport climbing",
+    "medals_by_country": [
+      {
+        "country": "Slovenia",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Poland",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Great Britain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Indonesia",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Spain",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "United States of America",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "China",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Surfing",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Brazil",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "France",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Australia",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Japan",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "South Africa",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Swimming",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 266,
+        "silver": 195,
+        "bronze": 151
+      },
+      {
+        "country": "Australia",
+        "gold": 76,
+        "silver": 76,
+        "bronze": 77
+      },
+      {
+        "country": "Germany",
+        "gold": 57,
+        "silver": 63,
+        "bronze": 74
+      },
+      {
+        "country": "Hungary",
+        "gold": 33,
+        "silver": 29,
+        "bronze": 21
+      },
+      {
+        "country": "Japan",
+        "gold": 24,
+        "silver": 28,
+        "bronze": 32
+      },
+      {
+        "country": "Russia",
+        "gold": 23,
+        "silver": 33,
+        "bronze": 36
+      },
+      {
+        "country": "Netherlands",
+        "gold": 23,
+        "silver": 21,
+        "bronze": 21
+      },
+      {
+        "country": "Great Britain",
+        "gold": 22,
+        "silver": 37,
+        "bronze": 33
+      }
+    ]
+  },
+  {
+    "sport": "Synchronized Swimming",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 10,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "United States of America",
+        "gold": 5,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "Canada",
+        "gold": 3,
+        "silver": 4,
+        "bronze": 1
+      },
+      {
+        "country": "China",
+        "gold": 2,
+        "silver": 5,
+        "bronze": 2
+      },
+      {
+        "country": "Russian Olympic Commitee",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Japan",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 10
+      },
+      {
+        "country": "Spain",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "country": "Great Britain",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Table Tennis",
+    "medals_by_country": [
+      {
+        "country": "China",
+        "gold": 37,
+        "silver": 21,
+        "bronze": 8
+      },
+      {
+        "country": "South Korea",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 14
+      },
+      {
+        "country": "Japan",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 5
+      },
+      {
+        "country": "Sweden",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 1
+      },
+      {
+        "country": "Germany",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 5
+      },
+      {
+        "country": "North Korea",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "France",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+      },
+      {
+        "country": "Chinese Taipei",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Taekwondo",
+    "medals_by_country": [
+      {
+        "country": "South Korea",
+        "gold": 14,
+        "silver": 3,
+        "bronze": 8
+      },
+      {
+        "country": "China",
+        "gold": 7,
+        "silver": 2,
+        "bronze": 4
+      },
+      {
+        "country": "Iran",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "United States of America",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 6
+      },
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 4,
+        "bronze": 4
+      },
+      {
+        "country": "Mexico",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "Thailand",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "country": "Serbia",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Tennis",
+    "medals_by_country": [
+      {
+        "country": "United States of America",
+        "gold": 21,
+        "silver": 7,
+        "bronze": 13
+      },
+      {
+        "country": "Great Britain",
+        "gold": 16,
+        "silver": 14,
+        "bronze": 12
+      },
+      {
+        "country": "France",
+        "gold": 8,
+        "silver": 7,
+        "bronze": 8
+      },
+      {
+        "country": "Germany",
+        "gold": 4,
+        "silver": 6,
+        "bronze": 3
+      },
+      {
+        "country": "Russia",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "Switzerland",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 0
+      },
+      {
+        "country": "South Africa",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "Spain",
+        "gold": 2,
+        "silver": 8,
+        "bronze": 5
+      }
+    ]
+  },
+  {
+    "sport": "Trampolining",
+    "medals_by_country": [
+      {
+        "country": "China",
+        "gold": 4,
+        "silver": 5,
+        "bronze": 7
+      },
+      {
+        "country": "Canada",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Russia",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0
+      },
+      {
+        "country": "Belarus",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Great Britain",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "country": "Individual Neutral Athletes",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Ukraine",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Germany",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "sport": "Triathlon",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "Switzerland",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "Germany",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Australia",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "New Zealand",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "country": "Canada",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Tug of war",
+    "medals_by_country": [
+      {
+        "country": "Great Britain",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "country": "United States of America",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Sweden",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "country": "Germany",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Sweden / Denmark",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "France",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Greece",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "country": "Netherlands",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Volleyball",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 8,
+        "silver": 8,
+        "bronze": 3
+      },
+      {
+        "country": "Brazil",
+        "gold": 5,
+        "silver": 4,
+        "bronze": 3
+      },
+      {
+        "country": "United States of America",
+        "gold": 4,
+        "silver": 4,
+        "bronze": 5
+      },
+      {
+        "country": "Japan",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "China",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "country": "Cuba",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 2
+      },
+      {
+        "country": "France",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Italy",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "sport": "Water Polo",
+    "medals_by_country": [
+      {
+        "country": "Hungary",
+        "gold": 9,
+        "silver": 3,
+        "bronze": 5
+      },
+      {
+        "country": "United States of America",
+        "gold": 4,
+        "silver": 6,
+        "bronze": 6
+      },
+      {
+        "country": "Italy",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 3
+      },
+      {
+        "country": "Great Britain",
+        "gold": 4,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "country": "Yugoslavia",
+        "gold": 3,
+        "silver": 4,
+        "bronze": 1
+      },
+      {
+        "country": "Serbia",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 2
+      },
+      {
+        "country": "Russia",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 7
+      },
+      {
+        "country": "Spain",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "sport": "Weightlifting",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 48,
+        "silver": 32,
+        "bronze": 8
+      },
+      {
+        "country": "China",
+        "gold": 43,
+        "silver": 16,
+        "bronze": 8
+      },
+      {
+        "country": "United States of America",
+        "gold": 17,
+        "silver": 17,
+        "bronze": 12
+      },
+      {
+        "country": "Bulgaria",
+        "gold": 13,
+        "silver": 17,
+        "bronze": 9
+      },
+      {
+        "country": "Germany",
+        "gold": 9,
+        "silver": 13,
+        "bronze": 21
+      },
+      {
+        "country": "Iran",
+        "gold": 9,
+        "silver": 7,
+        "bronze": 5
+      },
+      {
+        "country": "France",
+        "gold": 9,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "country": "Turkey",
+        "gold": 8,
+        "silver": 1,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "sport": "Wrestling",
+    "medals_by_country": [
+      {
+        "country": "Russia",
+        "gold": 99,
+        "silver": 51,
+        "bronze": 42
+      },
+      {
+        "country": "United States of America",
+        "gold": 59,
+        "silver": 46,
+        "bronze": 43
+      },
+      {
+        "country": "Japan",
+        "gold": 45,
+        "silver": 23,
+        "bronze": 19
+      },
+      {
+        "country": "Turkey",
+        "gold": 29,
+        "silver": 18,
+        "bronze": 21
+      },
+      {
+        "country": "Sweden",
+        "gold": 28,
+        "silver": 27,
+        "bronze": 31
+      },
+      {
+        "country": "Finland",
+        "gold": 27,
+        "silver": 29,
+        "bronze": 29
+      },
+      {
+        "country": "Hungary",
+        "gold": 20,
+        "silver": 17,
+        "bronze": 20
+      },
+      {
+        "country": "Bulgaria",
+        "gold": 18,
+        "silver": 32,
+        "bronze": 23
+      }
+    ]
+  }
+]
